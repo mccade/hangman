@@ -1,5 +1,5 @@
 # hangman
-a quick and dirty console hangman implementation using C#
+c# console hangman implementation
 
 the user inputs their secret word(s)
 
